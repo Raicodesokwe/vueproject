@@ -1,0 +1,3 @@
+<template>
+    insure now
+</template>
